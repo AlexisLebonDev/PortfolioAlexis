@@ -1,7 +1,7 @@
 @font-face {
     font-family: "Lekton";
-    src: url('../font/Lekton-Regular.ttf') format('truetype'),
-         url('../font/Lekton-Bold.ttf') format('truetype');
+    src: url('font/Lekton-Regular.ttf') format('truetype'),
+         url('font/Lekton-Bold.ttf') format('truetype');
 }
 
 body{
